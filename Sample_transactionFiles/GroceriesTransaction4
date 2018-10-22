@@ -1,0 +1,21 @@
+TID	Items									
+8801	apple	orange	milk				bread		lettuce	potatoe
+8802		orange			onion	avocado				
+8803	apple	orange		banana				cereal	lettuce	
+8804	apple			banana	onion		bread			potatoe
+8805	apple	orange	milk	banana	onion	avocado	bread			
+8806				banana	onion	avocado	bread	cereal		potatoe
+8807						avocado		cereal	lettuce	
+8808	apple	orange			onion	avocado			lettuce	potatoe
+8809	apple	orange		banana	onion		bread			potatoe
+8810	apple					avocado	bread		lettuce	potatoe
+8811	apple	orange		banana			bread	cereal		potatoe
+8812		orange	milk					cereal		
+8813		orange			onion			cereal		potatoe
+8814			milk	banana	onion			cereal		potatoe
+8815			milk	banana	onion					potatoe
+8816		orange	milk		onion	avocado	bread	cereal		potatoe
+8817				banana	onion			cereal		
+8818	apple		milk					cereal		
+8819	apple	orange		banana				cereal	lettuce	
+8820	apple						bread		lettuce	

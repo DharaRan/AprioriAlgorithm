@@ -1,0 +1,21 @@
+TID	Items
+401		orange		banana			bread	cereal	lettuce	
+402	apple		milk	banana	onion		bread	cereal	lettuce	potatoe
+403		orange			onion				lettuce	
+404					onion			cereal	lettuce	
+405			milk	banana			bread	cereal		potatoe
+406								cereal	lettuce	potatoe
+407	apple	orange		banana		avocado	bread	cereal	lettuce	potatoe
+408		orange	milk		onion	avocado		cereal	lettuce	potatoe
+409		orange	milk	banana			bread		lettuce	
+410				banana	onion		bread	cereal	lettuce	
+411		orange			onion		bread		lettuce	
+412		orange				avocado	bread	cereal	lettuce	
+413			milk	banana	onion		bread	cereal		potatoe
+414				banana	onion	avocado	bread	cereal		potatoe
+415		orange	milk	banana		avocado	bread	cereal		potatoe
+416	apple			banana	onion			cereal		
+417	apple	orange	milk						lettuce	potatoe
+418	apple	orange			onion		bread	cereal	lettuce	
+419		orange						cereal		potatoe
+420					onion		bread	cereal	lettuce	potatoe

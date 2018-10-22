@@ -1,0 +1,21 @@
+TID	Items
+6001	apple					avocado			lettuce	
+6002	apple	orange			onion				lettuce	potatoe
+6003	apple	orange		banana	onion		bread	cereal		potatoe
+6004			milk	banana		avocado	bread	cereal	lettuce	
+6005	apple	orange	milk		onion		bread			
+6006			milk		onion		bread	cereal	lettuce	potatoe
+6007		orange					bread	cereal		potatoe
+6008	apple		milk						lettuce	
+6009		orange			onion			cereal	lettuce	potatoe
+6010	apple			banana	onion				lettuce	
+6011				banana	onion		bread			potatoe
+6012		orange	milk		onion					potatoe
+6013	apple		milk		onion	avocado	bread	cereal		potatoe
+6014		orange				avocado	bread		lettuce	potatoe
+6015		orange		banana	onion	avocado	bread			
+6016	apple	orange			onion		bread	cereal	lettuce	
+6017			milk				bread			
+6018	apple	orange				avocado	bread	cereal		
+6019	apple	orange	milk		onion		bread			
+6020			milk	banana	onion			cereal		
